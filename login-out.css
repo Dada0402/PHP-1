@@ -1,0 +1,63 @@
+
+body.background{
+	background-image: url('bg.jpg');
+	
+}
+.container{ 
+	width: 400px;
+	margin: auto;
+	background-color: rgba(0, 250, 200, 0.1);
+	box-shadow: 2px 2px 10px white;;
+	
+}
+h4{
+	font-family: initial;
+	font-size: 30px;
+	font-weight:bold ; 
+	text-align: center;
+	margin: 60px 0px 30px 0px;
+   
+
+  }
+  h6{
+  	font-family: initial;
+	font-size: 20px;
+	font-weight:normal ; 
+	padding: 20px 20px 10px 10px;
+	margin: 0px;
+	text-align: left;
+  }
+  input{
+  	font-family: initial;
+	font-size: 18px;
+	font-weight:normal ; 
+	padding: 10px 20px 10px 20px;
+	margin: 10px;
+	border-radius:7px;
+	border-style: none;
+  }
+  button{
+  	font-size: 20px;
+  	font-family: initial;
+  	font-weight:bold ; 
+  	padding: 10px 20px 10px 20px;
+	margin: 20px 20px 0px 10px;
+	background-color: rgba(0, 0, 250, 0.15);
+	border-radius:7px;
+	border-style: none;
+
+   }
+   button:hover{
+   	background-color: white;
+   }
+  p{font-family: initial;
+  	font-size: 15px;
+  	font-weight: normal;
+  	padding: 0px 0px 20px 0px;
+    text-align: center;
+  	
+  	}
+  a{text-decoration: none;
+
+  }
+
